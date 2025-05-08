@@ -22,7 +22,7 @@
                 ";Initial Catalog=FlightManagement;Integrated Security=True";</code></pre>
     <h3>Bước 4: Chạy Ứng Dụng</h3>
     <pre><code>1. Mở Visual Studio
-2. Mở project <code>QuanLyChuyenBay.sln</code>
+2. Mở project <code>FlightManagement.sln</code>
 3. Nhấn F5 để chạy chương trình</code></pre>
     <h2>3. Liên Hệ</h2>
 </body>
