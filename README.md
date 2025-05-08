@@ -24,7 +24,14 @@
     <pre><code>1. Mở Visual Studio
 2. Mở project <code>FlightManagement.sln</code>
 3. Nhấn F5 để chạy chương trình</code></pre>
-    <h2>3. Liên Hệ</h2>
+    <h2>3. Chức Năng Mở Rộng</h2>
+    <ul>
+        <li>📧 <strong>Gửi Mail:</strong> Tự động gửi email xác nhận vé, thông báo thay đổi chuyến bay.</li>
+        <li>📊 <strong>Thống Kê & Biểu Đồ:</strong> Vẽ biểu đồ số lượng vé bán, doanh thu theo thời gian.</li>
+        <li>🧾 <strong>Xuất Báo Cáo:</strong> Xuất báo cáo ra file PDF hoặc Excel.</li>
+        <li>🤖 <strong>Chatbot:</strong> Tích hợp chatbot đơn giản hỗ trợ người dùng hỏi đáp nhanh.</li>
+    </ul>
+    <h2>4. Liên Hệ</h2>
     <p>Nếu bạn có bất kỳ câu hỏi hoặc cần hỗ trợ, vui lòng liên hệ qua email: <a href="mailto:haonhut.thach@gmail.com">haonhut.thach@gmail.com</a></p>
 </body>
 </html>
