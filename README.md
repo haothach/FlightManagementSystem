@@ -12,13 +12,13 @@
     <h3>Bước 1: Clone Repository</h3>
     <pre><code>git clone https://github.com/haothach/QuanLyChuyenBay.git</code></pre>
     <h3>Bước 2: Cấu Hình Database</h3>
-    <p>Import file SQL có sẵn trong thư mục <code>Database</code> vào SQL Server:</p>
+    <p>Import file SQL vào SQL Server:</p>
     <pre><code>1. Mở SQL Server Management Studio (SSMS)
 2. Kết nối đến SQL Server
-3. Chạy file <code>FlightManagement.sql</code> để tạo database</code></pre>
+3. Chạy file <code>QLChuyenBay.sql</code> để tạo database</code></pre>
     <h3>Bước 3: Cấu Hình Chuỗi Kết Nối</h3>
     <p>Chỉnh sửa file cấu hình trong C#:</p>
-    <pre><code>"string cnStr = "Data Source=INVISIBLE-PC\\SQLEXPRESS01" +
+    <pre><code>"string cnStr = "Data Source=." +
                 ";Initial Catalog=FlightManagement;Integrated Security=True";</code></pre>
     <h3>Bước 4: Chạy Ứng Dụng</h3>
     <pre><code>1. Mở Visual Studio
