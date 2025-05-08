@@ -25,5 +25,6 @@
 2. Mở project <code>FlightManagement.sln</code>
 3. Nhấn F5 để chạy chương trình</code></pre>
     <h2>3. Liên Hệ</h2>
+    <p>Nếu bạn có bất kỳ câu hỏi hoặc cần hỗ trợ, vui lòng liên hệ qua email: <a href="mailto:haonhut.thach@gmail.com">haonhut.thach@gmail.com</a></p>
 </body>
 </html>
