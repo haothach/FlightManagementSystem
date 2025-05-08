@@ -1,6 +1,6 @@
 
 <body>
-    <h1>Quản Lý Chuyến Bay - Hướng Dẫn Cài Đặt</h1>
+    <h1>Flight Management System - Hướng Dẫn Cài Đặt</h1>
     <h2>1. Yêu Cầu Hệ Thống</h2>
     <ul>
         <li>Hệ điều hành: Windows 10 hoặc mới hơn</li>
