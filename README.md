@@ -1,4 +1,4 @@
-# ✈️ Flight Management System - Installation Guide
+#  Flight Management System - Installation Guide
 
 ## 1. System Requirements
 
@@ -11,7 +11,7 @@
 
 ## 2. Installation and Running the Project
 
-### 🔁 Step 1: Clone the Repository
+###  Step 1: Clone the Repository
 
 ```bash
 git clone https://github.com/haothach/FlightManagementSystem.git
@@ -35,7 +35,7 @@ Edit the connection string in your C# code:
 string cnStr = "Data Source=.;Initial Catalog=FlightManagement;Integrated Security=True";
 ```
 
-### ▶️ Step 4: Run the Application
+###  Step 4: Run the Application
 
 ```text
 1. Open Visual Studio  
@@ -45,17 +45,17 @@ string cnStr = "Data Source=.;Initial Catalog=FlightManagement;Integrated Securi
 
 ---
 
-## 3. 🚀 Extended Features
+## 3.  Extended Features
 
-- 📧 **Email Sending:** Automatically sends ticket confirmation and flight update emails  
-- 📊 **Statistics & Charts:** Visualizes ticket sales and revenue trends  
-- 🧾 **Report Exporting:** Exports reports to PDF or Excel files  
-- 🤖 **Basic Chatbot:** Provides quick user support via a built-in chatbot
+-  **Email Sending:** Automatically sends ticket confirmation and flight update emails  
+-  **Statistics & Charts:** Visualizes ticket sales and revenue trends  
+-  **Report Exporting:** Exports reports to PDF or Excel files  
+-  **Basic Chatbot:** Provides quick user support via a built-in chatbot
 
 ---
 
-## 4. 📬 Contact
+## 4.  Contact
 
 If you have any questions or need support, feel free to contact:
 
-**📧 Email:** [haonhut.thach@gmail.com](mailto:haonhut.thach@gmail.com)
+** Email:** [haonhut.thach@gmail.com](mailto:haonhut.thach@gmail.com)
